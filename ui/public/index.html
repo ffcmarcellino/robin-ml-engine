@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>RoBin</title>
+    <meta charset="utf-8">
+</head>
+<body>
+
+<h1>RoBin</h1>
+
+<form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" accept="image/*" name="photo" onchange="readURL(this);">
+        <select  name="Recyclable" >
+          <option value="cardboard">cardboard</option>
+          <option value="glass">glass</option>
+          <option value="metal">metal</option>
+          <option value="paper">paper</option>
+          <option value="plastic">plastic</option>
+          <option value="trash">trash</option>
+        </select>
+        <br><br>
+        <input type="submit" value="upload">
+        <br><br>
+        <img id="blah" src="#" alt="your image" />
+</form>
+
+
+</body>
+</html>
