@@ -1,0 +1,10 @@
+gunicorn
+flask
+flask_jsonpify
+imp
+sys
+pandas
+fastai
+PIL
+requests
+io
