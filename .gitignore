@@ -1,2 +1,3 @@
 /ui/node_modules
 /node_modules
+/ml-model/data/*.jpg
