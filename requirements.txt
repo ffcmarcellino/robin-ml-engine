@@ -1,2 +1,5 @@
 gunicorn
 fastai
+flask
+flask_jsonpify
+requests
