@@ -5,4 +5,3 @@ pandas
 fastai
 pillow
 requests
-io
