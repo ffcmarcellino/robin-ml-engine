@@ -1,7 +1,6 @@
 gunicorn
-https://download.pytorch.org/whl/nightly/cpu/torch_nightly-1.0.0.dev20181129-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/nightly/cpu/torchvision-0.3.0-cp37-cp37m-linux_x86_64.whl
 fastai
+https://download.pytorch.org/whl/nightly/cpu/torch_nightly-1.0.0.dev20181129-cp36-cp36m-linux_x86_64.whl
 flask
 flask_jsonpify
 requests
