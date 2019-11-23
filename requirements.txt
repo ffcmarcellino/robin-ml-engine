@@ -3,6 +3,6 @@ flask
 flask_jsonpify
 pandas
 fastai
-pil
+pillow
 requests
 io
