@@ -1,6 +1,2 @@
 gunicorn
-flask
-flask_jsonpify
-pandas
-pillow
-requests
+fastai
