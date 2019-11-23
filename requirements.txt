@@ -1,7 +1,6 @@
 gunicorn
 flask
 flask_jsonpify
-sys
 pandas
 fastai
 PIL
