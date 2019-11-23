@@ -2,6 +2,5 @@ gunicorn
 flask
 flask_jsonpify
 pandas
-fastai
 pillow
 requests
